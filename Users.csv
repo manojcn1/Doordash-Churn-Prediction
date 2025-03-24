@@ -1,0 +1,1001 @@
+user_id,signup_date,user_location,platform
+U0000,2023-04-13,Houston,iOS
+U0001,2023-12-15,Houston,iOS
+U0002,2023-09-28,Dallas,iOS
+U0003,2023-04-17,Austin,iOS
+U0004,2023-03-13,Austin,iOS
+U0005,2023-07-08,Plano,Web
+U0006,2023-01-21,Austin,Android
+U0007,2023-04-13,San Antonio,Android
+U0008,2023-05-02,Austin,Web
+U0009,2023-08-03,Plano,Web
+U0010,2023-11-27,Austin,Android
+U0011,2023-03-29,San Antonio,Android
+U0012,2023-04-10,Dallas,Android
+U0013,2023-12-26,Plano,Android
+U0014,2023-06-01,Dallas,Android
+U0015,2023-05-11,Dallas,iOS
+U0016,2023-05-30,Dallas,Web
+U0017,2023-11-05,Houston,iOS
+U0018,2023-09-15,Houston,Android
+U0019,2023-12-10,Dallas,Android
+U0020,2023-10-21,Plano,Android
+U0021,2023-07-11,San Antonio,iOS
+U0022,2023-10-04,San Antonio,iOS
+U0023,2023-06-10,Austin,Android
+U0024,2023-11-10,Plano,iOS
+U0025,2023-01-22,Houston,iOS
+U0026,2023-09-10,Dallas,Android
+U0027,2023-08-24,Austin,iOS
+U0028,2023-12-11,San Antonio,Web
+U0029,2023-02-18,Houston,Web
+U0030,2023-02-28,Houston,Web
+U0031,2023-06-19,Dallas,Web
+U0032,2023-07-07,San Antonio,Android
+U0033,2023-09-28,Plano,Android
+U0034,2023-07-09,Houston,Android
+U0035,2023-06-24,Dallas,Web
+U0036,2023-02-20,Plano,Web
+U0037,2023-12-30,San Antonio,iOS
+U0038,2023-02-24,Houston,iOS
+U0039,2023-09-01,Plano,Web
+U0040,2023-11-16,Plano,Web
+U0041,2023-05-11,Plano,Web
+U0042,2023-11-03,Houston,Web
+U0043,2023-05-15,Houston,iOS
+U0044,2023-01-21,Austin,Web
+U0045,2023-11-25,San Antonio,iOS
+U0046,2023-06-16,Dallas,Web
+U0047,2023-10-01,Plano,Web
+U0048,2023-03-30,Austin,Web
+U0049,2023-11-12,Dallas,iOS
+U0050,2023-01-14,Austin,iOS
+U0051,2023-08-30,Houston,Android
+U0052,2023-09-22,Plano,Web
+U0053,2023-12-12,Dallas,Android
+U0054,2023-02-22,Dallas,Android
+U0055,2023-12-06,Dallas,iOS
+U0056,2023-04-02,Dallas,iOS
+U0057,2023-09-21,Dallas,Android
+U0058,2023-02-04,Austin,Web
+U0059,2023-07-25,Plano,iOS
+U0060,2023-03-22,Houston,Web
+U0061,2023-02-19,Houston,Web
+U0062,2023-12-26,Houston,Android
+U0063,2023-01-02,Houston,Android
+U0064,2023-02-23,Austin,Android
+U0065,2023-04-16,San Antonio,Android
+U0066,2023-09-17,Plano,iOS
+U0067,2023-11-06,Dallas,iOS
+U0068,2023-07-10,San Antonio,Android
+U0069,2023-08-06,Houston,iOS
+U0070,2023-02-13,San Antonio,Android
+U0071,2023-06-11,Plano,Web
+U0072,2023-07-21,Dallas,Web
+U0073,2023-09-27,Dallas,Web
+U0074,2023-12-17,Plano,Android
+U0075,2023-10-31,Plano,Web
+U0076,2023-09-28,Houston,iOS
+U0077,2023-08-03,Dallas,Web
+U0078,2023-09-09,San Antonio,Web
+U0079,2023-07-09,Austin,Web
+U0080,2023-10-23,Austin,iOS
+U0081,2023-08-01,Plano,Android
+U0082,2023-07-27,Houston,iOS
+U0083,2023-08-25,Austin,Android
+U0084,2023-12-04,Dallas,Android
+U0085,2023-02-22,Plano,Web
+U0086,2023-10-07,San Antonio,Android
+U0087,2023-08-05,Plano,iOS
+U0088,2023-09-09,San Antonio,iOS
+U0089,2023-07-07,Plano,Android
+U0090,2023-02-10,Plano,Web
+U0091,2023-06-06,Plano,Web
+U0092,2023-01-15,San Antonio,iOS
+U0093,2023-10-28,San Antonio,Web
+U0094,2023-03-06,Plano,Android
+U0095,2023-12-11,Austin,Android
+U0096,2023-11-23,Houston,iOS
+U0097,2023-01-09,Houston,Android
+U0098,2023-12-10,Houston,iOS
+U0099,2023-05-09,San Antonio,Android
+U0100,2023-05-16,San Antonio,iOS
+U0101,2023-03-04,Austin,Web
+U0102,2023-05-19,Houston,Android
+U0103,2023-03-22,Houston,Android
+U0104,2023-06-12,Plano,iOS
+U0105,2023-10-16,San Antonio,iOS
+U0106,2023-09-18,Houston,Android
+U0107,2023-08-19,Austin,iOS
+U0108,2023-02-10,Austin,Android
+U0109,2023-01-28,Houston,Web
+U0110,2023-05-15,San Antonio,iOS
+U0111,2023-07-20,Austin,Android
+U0112,2023-11-24,Plano,Web
+U0113,2023-09-25,Austin,Web
+U0114,2023-02-02,Dallas,Android
+U0115,2023-02-17,Dallas,iOS
+U0116,2023-03-03,San Antonio,Android
+U0117,2023-08-04,Houston,Web
+U0118,2023-10-20,San Antonio,Android
+U0119,2023-04-09,San Antonio,iOS
+U0120,2023-06-21,San Antonio,Web
+U0121,2023-12-26,San Antonio,Android
+U0122,2023-08-02,Plano,iOS
+U0123,2023-02-04,Plano,Web
+U0124,2023-08-15,Austin,iOS
+U0125,2023-04-11,Dallas,Web
+U0126,2023-05-11,San Antonio,Android
+U0127,2023-09-14,Austin,iOS
+U0128,2023-01-05,Dallas,Web
+U0129,2023-08-06,Houston,iOS
+U0130,2023-09-12,Plano,iOS
+U0131,2023-12-25,Dallas,Android
+U0132,2023-10-10,Houston,iOS
+U0133,2023-07-26,Dallas,Web
+U0134,2023-01-15,Plano,Web
+U0135,2023-12-12,Plano,Web
+U0136,2023-02-11,Austin,Web
+U0137,2023-06-28,San Antonio,Android
+U0138,2023-03-04,Dallas,iOS
+U0139,2023-12-18,Dallas,Android
+U0140,2023-08-19,Houston,iOS
+U0141,2023-08-29,Plano,iOS
+U0142,2023-02-21,Dallas,iOS
+U0143,2023-04-06,Plano,Android
+U0144,2023-08-10,Dallas,iOS
+U0145,2023-08-19,Austin,Android
+U0146,2023-08-25,San Antonio,Web
+U0147,2023-05-23,Dallas,Web
+U0148,2023-06-20,Plano,iOS
+U0149,2023-01-29,Austin,Android
+U0150,2023-02-05,Dallas,Web
+U0151,2023-01-13,Houston,Android
+U0152,2023-06-09,San Antonio,Android
+U0153,2023-11-23,Dallas,iOS
+U0154,2023-07-06,Austin,Web
+U0155,2023-08-31,Houston,iOS
+U0156,2023-03-27,Austin,iOS
+U0157,2023-10-11,Austin,Web
+U0158,2023-03-07,Houston,Web
+U0159,2023-06-19,Austin,Android
+U0160,2023-02-14,Houston,Web
+U0161,2023-03-03,Dallas,Android
+U0162,2023-05-14,Houston,Android
+U0163,2023-10-11,Houston,Android
+U0164,2023-01-28,San Antonio,Web
+U0165,2023-04-18,Houston,iOS
+U0166,2023-02-13,Houston,Android
+U0167,2023-12-06,Dallas,iOS
+U0168,2023-10-13,San Antonio,iOS
+U0169,2023-11-27,Plano,Web
+U0170,2023-05-08,Dallas,iOS
+U0171,2023-12-14,Dallas,iOS
+U0172,2023-08-19,Plano,Web
+U0173,2023-07-09,Houston,Android
+U0174,2023-08-13,Austin,iOS
+U0175,2023-10-10,San Antonio,Web
+U0176,2023-05-01,Austin,iOS
+U0177,2023-04-26,Plano,iOS
+U0178,2023-08-21,Dallas,Android
+U0179,2023-09-16,Dallas,iOS
+U0180,2023-12-25,San Antonio,Web
+U0181,2023-07-17,Dallas,iOS
+U0182,2023-05-17,Dallas,Android
+U0183,2023-11-14,San Antonio,Android
+U0184,2023-06-14,San Antonio,Web
+U0185,2023-08-13,Plano,Android
+U0186,2023-11-03,Dallas,iOS
+U0187,2023-08-22,Dallas,Android
+U0188,2023-06-21,Plano,Web
+U0189,2023-06-01,Houston,Android
+U0190,2023-11-11,Houston,Android
+U0191,2023-06-09,Houston,Android
+U0192,2023-04-06,Plano,Web
+U0193,2023-08-21,Dallas,Android
+U0194,2023-06-29,Plano,Android
+U0195,2023-04-23,Plano,iOS
+U0196,2023-11-14,Houston,Web
+U0197,2023-02-21,Austin,Android
+U0198,2023-09-25,Dallas,Web
+U0199,2023-10-22,Houston,Android
+U0200,2023-04-23,Austin,Android
+U0201,2023-04-11,Austin,Android
+U0202,2023-04-23,San Antonio,iOS
+U0203,2023-03-22,Dallas,iOS
+U0204,2023-07-06,Austin,iOS
+U0205,2023-04-23,Houston,Web
+U0206,2023-01-02,San Antonio,Web
+U0207,2023-05-10,Dallas,iOS
+U0208,2023-08-08,Plano,Web
+U0209,2023-02-23,Houston,Android
+U0210,2023-12-09,Austin,Android
+U0211,2023-08-12,Austin,Android
+U0212,2023-08-13,Houston,iOS
+U0213,2023-05-06,Austin,Web
+U0214,2023-05-10,San Antonio,iOS
+U0215,2023-02-22,Dallas,Web
+U0216,2023-06-21,San Antonio,Android
+U0217,2023-08-06,Austin,iOS
+U0218,2023-06-09,Plano,Web
+U0219,2023-07-17,Dallas,Web
+U0220,2023-09-04,Dallas,Android
+U0221,2023-11-20,Houston,iOS
+U0222,2023-07-22,Houston,iOS
+U0223,2023-07-03,Plano,iOS
+U0224,2023-05-03,Dallas,Android
+U0225,2023-09-12,Plano,iOS
+U0226,2023-10-21,Houston,Android
+U0227,2023-10-07,Houston,Android
+U0228,2023-11-21,Dallas,Android
+U0229,2023-04-08,San Antonio,Web
+U0230,2023-07-17,Austin,iOS
+U0231,2023-08-28,Houston,iOS
+U0232,2023-05-24,Houston,Android
+U0233,2023-04-07,San Antonio,Android
+U0234,2023-07-20,San Antonio,iOS
+U0235,2023-05-04,Plano,Android
+U0236,2023-07-06,Plano,iOS
+U0237,2023-11-22,Austin,Web
+U0238,2023-12-15,Austin,Android
+U0239,2023-09-16,Dallas,iOS
+U0240,2023-05-28,Plano,Android
+U0241,2023-09-09,Houston,iOS
+U0242,2023-12-12,Plano,iOS
+U0243,2023-05-27,Houston,Android
+U0244,2023-05-28,San Antonio,Web
+U0245,2023-12-18,Plano,iOS
+U0246,2023-07-18,San Antonio,iOS
+U0247,2023-11-04,Austin,iOS
+U0248,2023-05-08,Austin,Web
+U0249,2023-02-08,Dallas,Web
+U0250,2023-12-04,Plano,Android
+U0251,2023-12-26,San Antonio,Web
+U0252,2023-05-09,Houston,Android
+U0253,2023-09-24,Austin,Android
+U0254,2023-05-31,Austin,Web
+U0255,2023-10-25,Houston,Android
+U0256,2023-04-09,San Antonio,Web
+U0257,2023-09-20,San Antonio,Android
+U0258,2023-09-09,Plano,Web
+U0259,2023-05-24,Plano,Web
+U0260,2023-12-12,Dallas,Android
+U0261,2023-04-22,Austin,iOS
+U0262,2023-03-01,Plano,Android
+U0263,2023-01-02,San Antonio,Web
+U0264,2023-10-31,Houston,iOS
+U0265,2023-09-11,San Antonio,Android
+U0266,2023-05-20,Austin,Android
+U0267,2023-02-06,San Antonio,Android
+U0268,2023-06-09,Dallas,iOS
+U0269,2023-01-09,Austin,Web
+U0270,2023-08-21,Houston,Android
+U0271,2023-04-09,Dallas,Android
+U0272,2023-05-27,Austin,Android
+U0273,2023-10-31,Houston,Android
+U0274,2023-07-27,Dallas,Android
+U0275,2023-05-11,Dallas,Web
+U0276,2023-06-01,Austin,Web
+U0277,2023-02-23,Plano,Android
+U0278,2023-04-30,Dallas,iOS
+U0279,2023-06-10,Dallas,Web
+U0280,2023-04-26,Houston,iOS
+U0281,2023-03-16,San Antonio,Web
+U0282,2023-04-23,Austin,Android
+U0283,2023-04-14,Austin,Web
+U0284,2023-12-06,Plano,Android
+U0285,2023-09-11,Plano,Web
+U0286,2023-08-15,Austin,Android
+U0287,2023-04-22,Plano,Android
+U0288,2023-04-09,Houston,Android
+U0289,2023-06-02,Austin,Android
+U0290,2023-12-15,Plano,iOS
+U0291,2023-12-04,Austin,Android
+U0292,2023-07-13,San Antonio,iOS
+U0293,2023-11-06,Dallas,iOS
+U0294,2023-06-12,Austin,Android
+U0295,2023-07-27,Dallas,iOS
+U0296,2023-06-18,Plano,Web
+U0297,2023-06-10,Dallas,Android
+U0298,2023-03-09,Austin,iOS
+U0299,2023-10-16,San Antonio,Android
+U0300,2023-10-04,Plano,Android
+U0301,2023-10-31,Austin,Android
+U0302,2023-05-15,Plano,iOS
+U0303,2023-07-14,Houston,Web
+U0304,2023-05-08,Dallas,Web
+U0305,2023-02-02,Houston,iOS
+U0306,2023-06-25,Austin,Android
+U0307,2023-01-22,San Antonio,iOS
+U0308,2023-08-26,Plano,iOS
+U0309,2023-06-07,Dallas,iOS
+U0310,2023-02-07,Plano,Android
+U0311,2023-08-18,Austin,iOS
+U0312,2023-12-31,Plano,Android
+U0313,2023-02-20,Dallas,iOS
+U0314,2023-09-21,Austin,Web
+U0315,2023-10-10,Plano,iOS
+U0316,2023-01-27,San Antonio,iOS
+U0317,2023-08-14,Austin,Web
+U0318,2023-10-04,Austin,Android
+U0319,2023-10-13,San Antonio,Android
+U0320,2023-04-07,Houston,iOS
+U0321,2023-10-11,Dallas,Web
+U0322,2023-11-13,Houston,Android
+U0323,2023-10-31,Plano,iOS
+U0324,2023-05-27,San Antonio,Web
+U0325,2023-01-04,Houston,Android
+U0326,2023-02-04,Austin,Android
+U0327,2023-07-11,Plano,Web
+U0328,2023-02-18,Plano,Web
+U0329,2023-01-17,Houston,Web
+U0330,2023-06-21,Houston,Web
+U0331,2023-08-08,San Antonio,iOS
+U0332,2023-06-07,Dallas,Web
+U0333,2023-02-15,Houston,Android
+U0334,2023-01-06,Houston,Android
+U0335,2023-04-09,Austin,iOS
+U0336,2023-08-21,Plano,Android
+U0337,2023-02-06,Dallas,Android
+U0338,2023-10-07,Austin,Web
+U0339,2023-12-15,San Antonio,Android
+U0340,2023-10-29,San Antonio,iOS
+U0341,2023-06-30,Houston,Web
+U0342,2023-04-05,Houston,Web
+U0343,2023-04-09,San Antonio,iOS
+U0344,2023-07-07,Houston,Web
+U0345,2023-04-26,Dallas,Web
+U0346,2023-07-10,Houston,iOS
+U0347,2023-09-10,Plano,Web
+U0348,2023-06-10,Houston,iOS
+U0349,2023-09-13,Austin,iOS
+U0350,2023-11-19,Dallas,Android
+U0351,2023-05-08,Austin,Android
+U0352,2023-01-18,Austin,Web
+U0353,2023-10-08,Plano,Web
+U0354,2023-08-11,Dallas,iOS
+U0355,2023-02-23,Dallas,Web
+U0356,2023-02-27,Dallas,iOS
+U0357,2023-11-19,Dallas,iOS
+U0358,2023-12-26,Dallas,Web
+U0359,2023-06-23,Plano,iOS
+U0360,2023-10-07,Houston,Android
+U0361,2023-04-24,Austin,Web
+U0362,2023-10-15,Dallas,Android
+U0363,2023-12-08,Houston,Web
+U0364,2023-05-31,Houston,iOS
+U0365,2023-05-07,Austin,Web
+U0366,2023-06-04,Plano,Android
+U0367,2023-09-30,San Antonio,iOS
+U0368,2023-04-14,San Antonio,Web
+U0369,2023-10-26,Houston,Web
+U0370,2023-09-03,Austin,Web
+U0371,2023-06-25,San Antonio,Android
+U0372,2023-02-08,Houston,Android
+U0373,2023-06-19,Plano,Web
+U0374,2023-09-04,San Antonio,iOS
+U0375,2023-01-26,Houston,iOS
+U0376,2023-12-21,Houston,Android
+U0377,2023-11-02,Dallas,iOS
+U0378,2023-01-13,Plano,Android
+U0379,2023-11-12,Dallas,Web
+U0380,2023-11-09,Austin,Android
+U0381,2023-02-05,Dallas,Android
+U0382,2023-06-22,Dallas,Web
+U0383,2023-01-20,San Antonio,iOS
+U0384,2023-11-17,Houston,Android
+U0385,2023-09-21,Plano,Android
+U0386,2023-05-22,Dallas,Web
+U0387,2023-05-23,Plano,iOS
+U0388,2023-04-02,Dallas,Android
+U0389,2023-12-20,Austin,Web
+U0390,2023-11-18,Dallas,Android
+U0391,2023-10-15,San Antonio,Web
+U0392,2023-08-03,Houston,iOS
+U0393,2023-12-08,Austin,iOS
+U0394,2023-02-20,Dallas,iOS
+U0395,2023-06-02,Plano,iOS
+U0396,2023-07-05,Austin,Android
+U0397,2023-03-04,Austin,Android
+U0398,2023-07-09,Dallas,iOS
+U0399,2023-05-05,Austin,iOS
+U0400,2023-05-30,Plano,iOS
+U0401,2023-11-10,Austin,Android
+U0402,2023-02-27,Plano,iOS
+U0403,2023-12-08,Dallas,iOS
+U0404,2023-11-01,Houston,iOS
+U0405,2023-06-29,Austin,Web
+U0406,2023-06-19,Houston,iOS
+U0407,2023-11-22,Plano,Web
+U0408,2023-09-28,Austin,Web
+U0409,2023-02-23,San Antonio,iOS
+U0410,2023-04-11,Houston,Web
+U0411,2023-09-21,Austin,iOS
+U0412,2023-02-22,Houston,Android
+U0413,2023-03-01,Austin,Android
+U0414,2023-04-18,Dallas,Android
+U0415,2023-01-05,Houston,Android
+U0416,2023-04-13,San Antonio,Web
+U0417,2023-07-15,San Antonio,iOS
+U0418,2023-09-19,Plano,iOS
+U0419,2023-12-31,Austin,iOS
+U0420,2023-12-16,Houston,Android
+U0421,2023-02-16,Plano,Android
+U0422,2023-12-21,Houston,iOS
+U0423,2023-11-07,Austin,Android
+U0424,2023-11-04,San Antonio,iOS
+U0425,2023-05-24,Dallas,iOS
+U0426,2023-09-26,San Antonio,iOS
+U0427,2023-05-04,Plano,iOS
+U0428,2023-04-16,Dallas,iOS
+U0429,2023-06-07,Plano,iOS
+U0430,2023-05-27,Austin,iOS
+U0431,2023-05-25,Dallas,Android
+U0432,2023-04-30,Plano,iOS
+U0433,2023-11-15,Austin,iOS
+U0434,2023-10-02,San Antonio,Android
+U0435,2023-04-02,Austin,Android
+U0436,2023-02-27,Houston,Android
+U0437,2023-12-12,Austin,iOS
+U0438,2023-08-17,Austin,Web
+U0439,2023-04-27,Houston,Web
+U0440,2023-11-14,Plano,Android
+U0441,2023-10-06,Plano,Web
+U0442,2023-05-07,Austin,Android
+U0443,2023-05-09,Houston,iOS
+U0444,2023-02-27,Houston,Web
+U0445,2023-05-02,San Antonio,iOS
+U0446,2023-01-01,Plano,Web
+U0447,2023-08-27,Dallas,iOS
+U0448,2023-10-17,Plano,Web
+U0449,2023-04-06,Plano,iOS
+U0450,2023-05-06,San Antonio,iOS
+U0451,2023-04-28,Dallas,Web
+U0452,2023-02-17,San Antonio,iOS
+U0453,2023-03-30,Dallas,iOS
+U0454,2023-08-25,Austin,iOS
+U0455,2023-09-29,Dallas,Web
+U0456,2023-07-08,San Antonio,Web
+U0457,2023-07-11,Plano,iOS
+U0458,2023-03-10,Dallas,iOS
+U0459,2023-10-05,Dallas,Web
+U0460,2023-12-15,Houston,Web
+U0461,2023-09-04,Plano,iOS
+U0462,2023-03-17,Austin,iOS
+U0463,2023-06-03,San Antonio,iOS
+U0464,2023-05-24,Austin,Android
+U0465,2023-03-27,Plano,Web
+U0466,2023-07-04,Dallas,Android
+U0467,2023-10-12,Dallas,Web
+U0468,2023-08-08,Plano,Web
+U0469,2023-03-10,Dallas,Web
+U0470,2023-02-16,Dallas,Web
+U0471,2023-04-04,Dallas,Web
+U0472,2023-08-26,San Antonio,Web
+U0473,2023-07-23,San Antonio,Web
+U0474,2023-08-06,Houston,Android
+U0475,2023-12-07,Austin,iOS
+U0476,2023-02-08,Plano,iOS
+U0477,2023-04-10,Plano,Android
+U0478,2023-10-16,Plano,Android
+U0479,2023-09-11,Houston,Android
+U0480,2023-08-10,San Antonio,Android
+U0481,2023-12-23,Houston,Web
+U0482,2023-01-23,Plano,iOS
+U0483,2023-09-07,Austin,Web
+U0484,2023-01-10,Dallas,iOS
+U0485,2023-09-03,San Antonio,iOS
+U0486,2023-11-21,San Antonio,Android
+U0487,2023-04-10,Houston,Web
+U0488,2023-10-17,San Antonio,Android
+U0489,2023-06-29,Plano,Web
+U0490,2023-08-11,Plano,iOS
+U0491,2023-09-07,Houston,Android
+U0492,2023-05-27,Plano,Android
+U0493,2023-04-06,Austin,iOS
+U0494,2023-09-14,Houston,iOS
+U0495,2023-11-21,Austin,iOS
+U0496,2023-01-04,Dallas,Android
+U0497,2023-01-16,Austin,Web
+U0498,2023-10-07,Dallas,Android
+U0499,2023-12-02,Dallas,Web
+U0500,2023-09-04,Austin,Android
+U0501,2023-09-15,Houston,Android
+U0502,2023-06-09,Plano,iOS
+U0503,2023-12-06,Plano,Web
+U0504,2023-06-01,Dallas,Android
+U0505,2023-06-27,Dallas,Android
+U0506,2023-06-12,Houston,iOS
+U0507,2023-02-02,San Antonio,iOS
+U0508,2023-06-28,Austin,Web
+U0509,2023-04-11,Dallas,Android
+U0510,2023-09-25,Plano,Web
+U0511,2023-11-19,Houston,Android
+U0512,2023-03-06,Austin,Web
+U0513,2023-06-17,Houston,iOS
+U0514,2023-11-26,Austin,Android
+U0515,2023-02-12,Austin,Web
+U0516,2023-02-13,Dallas,iOS
+U0517,2023-10-12,Houston,iOS
+U0518,2023-01-12,Houston,Web
+U0519,2023-04-05,Plano,Android
+U0520,2023-10-29,Plano,Android
+U0521,2023-09-10,Dallas,iOS
+U0522,2023-08-30,Dallas,Android
+U0523,2023-02-04,San Antonio,Android
+U0524,2023-08-03,Plano,Android
+U0525,2023-12-03,Austin,iOS
+U0526,2023-03-31,Houston,Web
+U0527,2023-09-21,Dallas,Android
+U0528,2023-04-03,Houston,iOS
+U0529,2023-03-31,Houston,iOS
+U0530,2023-04-25,San Antonio,Web
+U0531,2023-04-15,Plano,Android
+U0532,2023-07-15,Dallas,Android
+U0533,2023-11-10,Houston,Web
+U0534,2023-04-24,Dallas,Web
+U0535,2023-03-16,Austin,iOS
+U0536,2023-08-05,San Antonio,iOS
+U0537,2023-10-04,Austin,Web
+U0538,2023-09-06,Dallas,Android
+U0539,2023-06-13,Dallas,iOS
+U0540,2023-12-23,Plano,iOS
+U0541,2023-07-11,Houston,Android
+U0542,2023-08-15,Houston,iOS
+U0543,2023-06-26,Austin,Android
+U0544,2023-04-09,San Antonio,Android
+U0545,2023-02-05,Houston,Android
+U0546,2023-04-06,Plano,Web
+U0547,2023-06-01,Austin,Web
+U0548,2023-05-31,Austin,Web
+U0549,2023-07-09,Plano,Android
+U0550,2023-08-12,San Antonio,Android
+U0551,2023-02-06,Plano,Web
+U0552,2023-09-25,San Antonio,iOS
+U0553,2023-07-02,Plano,Android
+U0554,2023-01-13,Plano,iOS
+U0555,2023-10-06,Dallas,iOS
+U0556,2023-08-05,Austin,Android
+U0557,2023-12-21,Plano,Android
+U0558,2023-12-27,Plano,iOS
+U0559,2023-10-13,Houston,iOS
+U0560,2023-09-30,Austin,Web
+U0561,2023-03-03,Houston,Web
+U0562,2023-03-25,Austin,Android
+U0563,2023-08-05,Houston,Web
+U0564,2023-12-08,Plano,Web
+U0565,2023-07-06,Plano,Web
+U0566,2023-01-19,Dallas,Web
+U0567,2023-06-26,Houston,iOS
+U0568,2023-04-10,San Antonio,Android
+U0569,2023-08-21,Dallas,Web
+U0570,2023-03-17,Houston,iOS
+U0571,2023-09-22,Houston,iOS
+U0572,2023-10-11,Dallas,iOS
+U0573,2023-07-25,Plano,Web
+U0574,2023-08-11,Houston,Web
+U0575,2023-02-21,Plano,Android
+U0576,2023-12-05,Dallas,Web
+U0577,2023-05-24,Plano,Web
+U0578,2023-03-10,Austin,iOS
+U0579,2023-04-09,San Antonio,Android
+U0580,2023-01-25,Houston,Web
+U0581,2023-02-22,San Antonio,Web
+U0582,2023-05-31,Plano,iOS
+U0583,2023-05-24,Houston,iOS
+U0584,2023-02-26,Plano,Web
+U0585,2023-02-08,Austin,Android
+U0586,2023-04-19,Dallas,Android
+U0587,2023-06-30,Houston,iOS
+U0588,2023-02-11,Austin,iOS
+U0589,2023-07-05,Austin,Web
+U0590,2023-08-11,Houston,iOS
+U0591,2023-05-02,Plano,Web
+U0592,2023-05-13,Austin,Android
+U0593,2023-06-12,San Antonio,Android
+U0594,2023-08-03,Austin,Web
+U0595,2023-08-09,Plano,iOS
+U0596,2023-08-23,Plano,Android
+U0597,2023-11-27,San Antonio,iOS
+U0598,2023-05-26,Austin,Android
+U0599,2023-08-27,Plano,Web
+U0600,2023-03-17,Houston,Web
+U0601,2023-01-09,Dallas,Web
+U0602,2023-03-15,Dallas,Android
+U0603,2023-09-10,Dallas,iOS
+U0604,2023-08-18,Austin,iOS
+U0605,2023-01-07,San Antonio,iOS
+U0606,2023-06-23,Plano,Android
+U0607,2023-05-21,Houston,Android
+U0608,2023-06-17,Houston,Android
+U0609,2023-06-19,Austin,Android
+U0610,2023-10-10,Dallas,Android
+U0611,2023-05-02,Austin,iOS
+U0612,2023-07-13,San Antonio,Android
+U0613,2023-01-05,San Antonio,Android
+U0614,2023-01-29,Plano,iOS
+U0615,2023-06-14,Plano,Android
+U0616,2023-12-05,San Antonio,iOS
+U0617,2023-05-16,San Antonio,iOS
+U0618,2023-12-31,San Antonio,Web
+U0619,2023-11-17,Austin,Web
+U0620,2023-12-08,San Antonio,Web
+U0621,2023-05-25,Houston,Web
+U0622,2023-11-23,Dallas,Android
+U0623,2023-08-05,San Antonio,Web
+U0624,2023-10-28,Dallas,iOS
+U0625,2023-05-12,Austin,Android
+U0626,2023-10-19,Dallas,Web
+U0627,2023-03-11,Austin,iOS
+U0628,2023-09-09,Houston,Android
+U0629,2023-10-02,Austin,Android
+U0630,2023-12-30,Austin,Web
+U0631,2023-07-01,Plano,Android
+U0632,2023-06-16,San Antonio,iOS
+U0633,2023-04-01,San Antonio,Android
+U0634,2023-07-21,Houston,iOS
+U0635,2023-12-12,Houston,Android
+U0636,2023-01-19,San Antonio,Web
+U0637,2023-02-08,Plano,iOS
+U0638,2023-05-06,San Antonio,Android
+U0639,2023-06-22,Plano,Android
+U0640,2023-05-21,Houston,Android
+U0641,2023-08-30,Dallas,iOS
+U0642,2023-08-08,Houston,iOS
+U0643,2023-05-06,Houston,iOS
+U0644,2023-02-27,Austin,Web
+U0645,2023-05-28,Austin,Web
+U0646,2023-11-13,Austin,iOS
+U0647,2023-12-27,Austin,Android
+U0648,2023-01-01,Plano,Web
+U0649,2023-12-14,San Antonio,iOS
+U0650,2023-07-09,Dallas,Android
+U0651,2023-07-10,Houston,Web
+U0652,2023-11-08,Plano,Android
+U0653,2023-04-27,Dallas,Android
+U0654,2023-05-14,Plano,Android
+U0655,2023-02-27,Plano,Android
+U0656,2023-02-13,Houston,Web
+U0657,2023-06-22,San Antonio,Web
+U0658,2023-06-09,Austin,Web
+U0659,2023-06-22,San Antonio,iOS
+U0660,2023-11-13,Houston,Web
+U0661,2023-10-30,Houston,Android
+U0662,2023-05-29,Houston,Web
+U0663,2023-03-21,Dallas,Android
+U0664,2023-08-01,San Antonio,iOS
+U0665,2023-07-22,San Antonio,Android
+U0666,2023-09-09,Plano,Android
+U0667,2023-08-17,Plano,Android
+U0668,2023-06-13,Plano,iOS
+U0669,2023-08-15,Houston,Web
+U0670,2023-05-27,San Antonio,Web
+U0671,2023-01-20,Houston,iOS
+U0672,2023-02-16,Dallas,Android
+U0673,2023-08-21,Plano,Web
+U0674,2023-11-01,Houston,iOS
+U0675,2023-01-14,Houston,Web
+U0676,2023-05-23,Dallas,iOS
+U0677,2023-01-01,Austin,Android
+U0678,2023-02-23,San Antonio,Web
+U0679,2023-09-16,Austin,iOS
+U0680,2023-05-24,Plano,Web
+U0681,2023-01-12,Houston,Web
+U0682,2023-11-26,Dallas,Web
+U0683,2023-08-12,Dallas,Web
+U0684,2023-09-29,San Antonio,iOS
+U0685,2023-12-24,Austin,Android
+U0686,2023-06-05,San Antonio,iOS
+U0687,2023-01-08,Houston,iOS
+U0688,2023-05-02,San Antonio,iOS
+U0689,2023-12-14,Dallas,Android
+U0690,2023-06-13,Dallas,Web
+U0691,2023-03-31,Plano,Web
+U0692,2023-05-16,Plano,Web
+U0693,2023-07-05,Houston,Android
+U0694,2023-11-12,Austin,Web
+U0695,2023-06-27,San Antonio,Android
+U0696,2023-01-28,Houston,Web
+U0697,2023-08-08,Plano,Web
+U0698,2023-12-23,San Antonio,iOS
+U0699,2023-02-10,Plano,Android
+U0700,2023-08-16,San Antonio,iOS
+U0701,2023-07-11,Austin,iOS
+U0702,2023-05-25,Houston,iOS
+U0703,2023-07-20,San Antonio,Android
+U0704,2023-07-31,Dallas,Android
+U0705,2023-08-08,Dallas,Web
+U0706,2023-08-28,San Antonio,iOS
+U0707,2023-02-15,San Antonio,Web
+U0708,2023-02-04,San Antonio,iOS
+U0709,2023-09-10,Dallas,Android
+U0710,2023-03-23,Dallas,Android
+U0711,2023-09-13,San Antonio,Android
+U0712,2023-07-16,Plano,iOS
+U0713,2023-10-30,Plano,Android
+U0714,2023-01-10,Austin,iOS
+U0715,2023-11-08,Houston,Web
+U0716,2023-10-13,Plano,iOS
+U0717,2023-08-30,Dallas,Web
+U0718,2023-09-08,Plano,iOS
+U0719,2023-12-31,Austin,Web
+U0720,2023-01-05,Austin,Android
+U0721,2023-04-29,Houston,Web
+U0722,2023-10-16,Plano,Android
+U0723,2023-03-06,Dallas,Android
+U0724,2023-05-26,Dallas,Web
+U0725,2023-08-12,San Antonio,iOS
+U0726,2023-08-27,Dallas,iOS
+U0727,2023-06-26,Houston,iOS
+U0728,2023-09-24,Houston,iOS
+U0729,2023-12-07,Dallas,iOS
+U0730,2023-10-09,Dallas,Android
+U0731,2023-03-04,San Antonio,iOS
+U0732,2023-08-05,Dallas,Android
+U0733,2023-12-08,San Antonio,Android
+U0734,2023-11-11,San Antonio,Android
+U0735,2023-10-10,Dallas,Web
+U0736,2023-06-26,Austin,Web
+U0737,2023-04-08,Austin,Android
+U0738,2023-04-15,San Antonio,Web
+U0739,2023-04-09,Dallas,iOS
+U0740,2023-11-07,Austin,iOS
+U0741,2023-01-06,Dallas,Android
+U0742,2023-07-16,Dallas,iOS
+U0743,2023-12-17,Dallas,Android
+U0744,2023-05-13,Plano,Android
+U0745,2023-12-24,Dallas,iOS
+U0746,2023-09-16,Plano,Web
+U0747,2023-01-23,San Antonio,iOS
+U0748,2023-02-22,Austin,iOS
+U0749,2023-06-14,Austin,Android
+U0750,2023-07-21,Austin,Android
+U0751,2023-03-24,Austin,Android
+U0752,2023-05-25,Austin,Android
+U0753,2023-03-26,Austin,Web
+U0754,2023-03-19,Austin,Web
+U0755,2023-01-01,San Antonio,Web
+U0756,2023-02-20,Dallas,Android
+U0757,2023-06-22,Houston,Android
+U0758,2023-07-24,Plano,Android
+U0759,2023-09-17,Houston,Web
+U0760,2023-10-15,Houston,Android
+U0761,2023-02-03,Dallas,iOS
+U0762,2023-12-14,Dallas,iOS
+U0763,2023-04-05,Dallas,Android
+U0764,2023-03-13,Austin,iOS
+U0765,2023-02-08,San Antonio,iOS
+U0766,2023-06-03,Austin,Web
+U0767,2023-09-07,San Antonio,Android
+U0768,2023-06-11,San Antonio,Android
+U0769,2023-04-28,Houston,Web
+U0770,2023-09-16,Houston,iOS
+U0771,2023-11-02,San Antonio,iOS
+U0772,2023-09-25,San Antonio,Android
+U0773,2023-02-23,Austin,iOS
+U0774,2023-08-24,Austin,Web
+U0775,2023-08-10,Houston,Web
+U0776,2023-09-08,Dallas,Android
+U0777,2023-11-09,San Antonio,Web
+U0778,2023-04-22,Austin,Web
+U0779,2023-09-12,Houston,Android
+U0780,2023-10-30,Austin,Web
+U0781,2023-07-26,San Antonio,Web
+U0782,2023-08-17,San Antonio,Web
+U0783,2023-12-07,Plano,iOS
+U0784,2023-03-07,Dallas,Android
+U0785,2023-03-16,Plano,Android
+U0786,2023-04-13,Houston,Android
+U0787,2023-07-11,Austin,iOS
+U0788,2023-09-09,Houston,iOS
+U0789,2023-08-14,San Antonio,Android
+U0790,2023-10-21,Plano,iOS
+U0791,2023-11-02,Plano,Android
+U0792,2023-04-08,Plano,iOS
+U0793,2023-12-04,Houston,Web
+U0794,2023-10-13,San Antonio,Web
+U0795,2023-12-01,Austin,Android
+U0796,2023-12-13,Austin,iOS
+U0797,2023-11-04,Houston,iOS
+U0798,2023-09-06,Plano,Web
+U0799,2023-06-15,Dallas,Web
+U0800,2023-12-01,Houston,iOS
+U0801,2023-01-30,Houston,iOS
+U0802,2023-09-04,San Antonio,iOS
+U0803,2023-04-16,Austin,iOS
+U0804,2023-02-20,Houston,iOS
+U0805,2023-03-22,Houston,iOS
+U0806,2023-05-13,Plano,Android
+U0807,2023-10-12,Plano,iOS
+U0808,2023-05-18,Dallas,Web
+U0809,2023-07-03,San Antonio,Android
+U0810,2023-11-26,Dallas,iOS
+U0811,2023-09-30,Plano,Web
+U0812,2023-12-06,Austin,Android
+U0813,2023-03-10,Plano,Web
+U0814,2023-02-03,San Antonio,iOS
+U0815,2023-09-19,Plano,iOS
+U0816,2023-02-22,San Antonio,iOS
+U0817,2023-07-24,San Antonio,iOS
+U0818,2023-05-06,San Antonio,Android
+U0819,2023-08-23,San Antonio,Android
+U0820,2023-02-12,San Antonio,Web
+U0821,2023-08-28,Austin,iOS
+U0822,2023-04-21,Dallas,Web
+U0823,2023-09-06,Houston,Android
+U0824,2023-05-31,Dallas,iOS
+U0825,2023-07-02,San Antonio,iOS
+U0826,2023-12-02,Austin,Android
+U0827,2023-04-05,Plano,Android
+U0828,2023-01-08,Austin,Android
+U0829,2023-12-26,San Antonio,Android
+U0830,2023-07-03,Austin,Android
+U0831,2023-10-08,Austin,iOS
+U0832,2023-07-14,San Antonio,Android
+U0833,2023-12-18,Austin,iOS
+U0834,2023-07-14,Houston,iOS
+U0835,2023-06-04,Houston,Android
+U0836,2023-04-03,Austin,Android
+U0837,2023-06-09,Plano,iOS
+U0838,2023-03-02,San Antonio,Android
+U0839,2023-05-02,Houston,Android
+U0840,2023-02-20,Plano,Android
+U0841,2023-10-04,Austin,Web
+U0842,2023-01-05,Plano,iOS
+U0843,2023-04-02,Dallas,Web
+U0844,2023-06-19,Houston,Android
+U0845,2023-11-13,Austin,Web
+U0846,2023-01-22,San Antonio,Android
+U0847,2023-11-22,Austin,Web
+U0848,2023-01-01,San Antonio,Android
+U0849,2023-05-13,Austin,Web
+U0850,2023-08-21,Plano,Web
+U0851,2023-01-12,Plano,Web
+U0852,2023-12-12,Plano,iOS
+U0853,2023-02-15,Dallas,Web
+U0854,2023-02-03,San Antonio,iOS
+U0855,2023-03-19,Plano,Android
+U0856,2023-08-06,Dallas,Web
+U0857,2023-10-28,San Antonio,Android
+U0858,2023-03-14,Austin,Android
+U0859,2023-10-09,Dallas,Web
+U0860,2023-09-06,Houston,iOS
+U0861,2023-02-16,Dallas,Web
+U0862,2023-05-01,Dallas,Android
+U0863,2023-08-02,San Antonio,Android
+U0864,2023-08-27,Austin,Web
+U0865,2023-02-25,Houston,iOS
+U0866,2023-12-16,Plano,iOS
+U0867,2023-04-17,Plano,Android
+U0868,2023-11-15,Dallas,Android
+U0869,2023-02-17,San Antonio,iOS
+U0870,2023-03-02,San Antonio,Web
+U0871,2023-12-03,Plano,Android
+U0872,2023-01-26,Houston,iOS
+U0873,2023-10-19,Austin,Android
+U0874,2023-09-14,Houston,Web
+U0875,2023-01-08,Austin,iOS
+U0876,2023-04-23,Plano,Android
+U0877,2023-12-21,Austin,Web
+U0878,2023-09-10,San Antonio,Android
+U0879,2023-06-29,Dallas,Web
+U0880,2023-07-26,Dallas,Web
+U0881,2023-10-30,Plano,iOS
+U0882,2023-05-07,San Antonio,Web
+U0883,2023-02-25,Houston,Android
+U0884,2023-08-02,San Antonio,Web
+U0885,2023-01-14,Dallas,Web
+U0886,2023-01-28,Dallas,iOS
+U0887,2023-03-19,San Antonio,Web
+U0888,2023-08-04,San Antonio,Web
+U0889,2023-12-31,Dallas,Android
+U0890,2023-06-03,Houston,iOS
+U0891,2023-01-14,Plano,iOS
+U0892,2023-07-06,Plano,iOS
+U0893,2023-11-08,San Antonio,Web
+U0894,2023-01-07,Plano,iOS
+U0895,2023-01-03,Dallas,Web
+U0896,2023-04-21,Dallas,Web
+U0897,2023-08-26,San Antonio,Android
+U0898,2023-12-29,San Antonio,Android
+U0899,2023-08-27,San Antonio,Android
+U0900,2023-10-01,Houston,Android
+U0901,2023-10-21,Plano,Android
+U0902,2023-08-15,San Antonio,Web
+U0903,2023-01-15,Austin,Web
+U0904,2023-07-11,Austin,iOS
+U0905,2023-04-29,Dallas,Web
+U0906,2023-01-28,Plano,Web
+U0907,2023-07-21,San Antonio,Android
+U0908,2023-02-08,Austin,Web
+U0909,2023-09-30,Plano,Android
+U0910,2023-08-19,Dallas,iOS
+U0911,2023-03-27,Houston,iOS
+U0912,2023-05-06,Plano,Web
+U0913,2023-10-27,Plano,iOS
+U0914,2023-01-25,Houston,Web
+U0915,2023-05-25,Plano,iOS
+U0916,2023-01-13,Dallas,Android
+U0917,2023-07-31,Dallas,Android
+U0918,2023-01-25,Houston,Android
+U0919,2023-03-09,San Antonio,Android
+U0920,2023-03-08,Austin,Web
+U0921,2023-08-21,San Antonio,iOS
+U0922,2023-04-19,Plano,Web
+U0923,2023-05-26,Austin,Android
+U0924,2023-04-21,Houston,Web
+U0925,2023-08-16,Houston,iOS
+U0926,2023-04-21,Austin,Web
+U0927,2023-02-03,Dallas,iOS
+U0928,2023-04-21,Austin,Web
+U0929,2023-09-21,Plano,iOS
+U0930,2023-08-24,Dallas,iOS
+U0931,2023-03-24,Houston,Android
+U0932,2023-02-11,Austin,iOS
+U0933,2023-04-11,San Antonio,Android
+U0934,2023-01-06,San Antonio,Android
+U0935,2023-06-29,Plano,Android
+U0936,2023-10-09,San Antonio,Web
+U0937,2023-11-16,Austin,Web
+U0938,2023-08-14,Austin,Web
+U0939,2023-11-11,San Antonio,Web
+U0940,2023-12-31,Austin,iOS
+U0941,2023-08-17,Plano,iOS
+U0942,2023-10-16,Dallas,Web
+U0943,2023-05-30,Plano,iOS
+U0944,2023-10-04,Plano,iOS
+U0945,2023-07-17,Austin,Android
+U0946,2023-03-11,Dallas,Android
+U0947,2023-04-22,Austin,Android
+U0948,2023-01-04,Houston,Android
+U0949,2023-12-16,Austin,iOS
+U0950,2023-11-27,Austin,Web
+U0951,2023-11-14,Austin,iOS
+U0952,2023-12-16,Dallas,iOS
+U0953,2023-04-05,Austin,iOS
+U0954,2023-06-01,Dallas,Android
+U0955,2023-11-07,San Antonio,Android
+U0956,2023-05-17,Houston,Android
+U0957,2023-09-04,Dallas,Web
+U0958,2023-08-31,San Antonio,iOS
+U0959,2023-01-31,Dallas,Web
+U0960,2023-02-09,Dallas,Android
+U0961,2023-08-17,Houston,Web
+U0962,2023-02-05,Plano,iOS
+U0963,2023-08-11,Plano,iOS
+U0964,2023-01-06,Dallas,Android
+U0965,2023-11-18,Austin,Android
+U0966,2023-08-08,San Antonio,Web
+U0967,2023-03-16,Austin,Android
+U0968,2023-01-04,Austin,Android
+U0969,2023-12-01,Dallas,iOS
+U0970,2023-05-14,Dallas,Android
+U0971,2023-04-28,Dallas,Android
+U0972,2023-04-04,Dallas,iOS
+U0973,2023-03-03,Plano,iOS
+U0974,2023-07-13,Dallas,Web
+U0975,2023-12-01,Plano,Android
+U0976,2023-07-22,Plano,iOS
+U0977,2023-01-26,Dallas,Web
+U0978,2023-06-22,Houston,Web
+U0979,2023-10-27,San Antonio,Android
+U0980,2023-05-13,Austin,Android
+U0981,2023-11-22,Plano,Web
+U0982,2023-04-28,San Antonio,iOS
+U0983,2023-11-20,Houston,Web
+U0984,2023-10-02,Austin,Android
+U0985,2023-07-31,Austin,iOS
+U0986,2023-08-13,Plano,iOS
+U0987,2023-01-20,Dallas,Web
+U0988,2023-04-23,Houston,Android
+U0989,2023-05-20,Plano,Web
+U0990,2023-02-16,Houston,Web
+U0991,2023-01-01,Dallas,Web
+U0992,2023-03-31,Dallas,iOS
+U0993,2023-05-22,Plano,iOS
+U0994,2023-11-16,Dallas,Android
+U0995,2023-02-07,San Antonio,Android
+U0996,2023-10-20,Austin,Web
+U0997,2023-05-19,Plano,Web
+U0998,2023-12-22,Houston,Web
+U0999,2023-11-29,San Antonio,Android
